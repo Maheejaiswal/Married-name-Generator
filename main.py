@@ -1,0 +1,5 @@
+print("Welcome to the Married Name generator")
+Var1=input("Enter your first name?\n")
+Var2=input("Enter your spouse's first name?\n")
+Var=input("Enter your spouse's last name?\n")
+print("Your name will be " + Var1 + " " + Var2 + " " + Var )
